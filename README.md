@@ -13,22 +13,6 @@
 - 🧬 Developing **tetraploid cucumbers** to enable triploid seedless hybrids for improved fruit quality and market value.  
 - 💻 Experienced in **genomic analysis, HPC workflows, and quantitative genetics** for crop improvement.  
 
----
-
-## 🚀 Featured Projects
-- [**cucumber-phenotyping-pipeline**](https://github.com/grover1012/cucumber-phenotyping-pipeline)  
-  *Computer vision pipeline (YOLO + SAM2 + OCR) for fruit detection, segmentation, classification, and trait extraction with full accession traceability.*
-
-- [**cucumber-met-optimization**](https://github.com/grover1012/cucumber-met-optimization)  
-  *R + sommer-based workflow for environment clustering, trial site optimization, and heritability analysis.*
-
-- [**aiv-wgs-pipeline**](https://github.com/grover1012/aiv-wgs-pipeline)  
-  *HPC-driven variant discovery pipeline (BWA-MEM, GATK, bcftools) for African Indigenous Vegetables.*
-
-- [**psi-hackathon-yield**](https://github.com/grover1012/psi-hackathon-yield)  
-  *Crop yield prediction models with environmental analog years — **Winner, NC Plant Science Initiative Hackathon 2025.***
-
----
 
 ## 🛠️ Skills
 **Programming & Data Science:** R, Python, machine learning, mixed models, genomic prediction  
@@ -37,14 +21,6 @@
 **Geospatial & Remote Sensing:** Drone imaging, Agisoft Metashape, QGIS, environmental covariate modeling  
 **Plant Breeding & Genetics:** MET optimization, G×E analysis, genomic selection, polyploid breeding  
 **Laboratory & Field:** PCR, electrophoresis, field trial design, trait phenotyping  
-
----
-
-## 🏆 Awards & Recognition
-- 🥇 **Winner**, NC Plant Science Initiative Hackathon (Advanced Track, 2025)  
-- ✈️ **John D. Leazar Horticulture Travel Award** (2025)  
-- 🎓 **University Master’s Fellowship**, Punjab Agricultural University (2022–23)  
-- 📚 **National Talent Scholarship**, ICAR, India (2017–21)  
 
 ---
 
