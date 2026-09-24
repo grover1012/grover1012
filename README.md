@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kashish-grvr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kgrover2@ncsu.edu"><img src="https://img.shields.io/badge/Email-kgrover2%40ncsu.edu-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open_to-Breeding_%26_Quant--Gen_R%26D_roles-2E7D32?style=flat" alt="Open to R&D roles">
 </p>
 
 ---
